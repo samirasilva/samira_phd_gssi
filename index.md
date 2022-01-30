@@ -1,5 +1,14 @@
 ## Samira Silva  - PhD Project
 
-You can use the [editor on GitHub](https://github.com/samirasilva/samira_phd_gssi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Publications: 
+- Samira Silva, Antonia Bertolino, and Pasupplementary material trizio Pelliccione. 2022. Self-adaptiveTesting in the Field: Are We There Yet?. In: Proceedings of The 17th Symposiumon Software Engineering for Adaptive and Self-Managing Systems (SEAMS 2022).ACM, New York, NY, USA, 11 pages. 
+  - Supplementary Material :
+    - Initial List of Papers
+    - Evaluation of Relevance
+    - Final list of Papers
+    - Answers to Research Question 1
+    - Answers to Research Question 2
+    - Answers to Research Question 3
 
 
