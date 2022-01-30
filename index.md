@@ -6,7 +6,7 @@ Publications:
   - Supplementary Material :
     - Initial List of Papers
     - Evaluation of Relevance
-    - Final list of Papers
+    - Final List of Papers
     - Answers to Research Questions
 
 
