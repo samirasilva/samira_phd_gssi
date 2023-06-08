@@ -16,6 +16,11 @@ a taxonomy of this new category of testing that we call self-adaptive testing in
 with a reference architecture for SATF approaches. To achieve this objective, we surveyed the literature and
 collected feedback and contributions from experts in the domain via a questionnaire and interviews.
 
+
+<p align="center">
+  <img src="https://github.com/samirasilva/samira_phd_gssi/assets/2701936/bad1a8e5-1bfc-4792-ab5c-e06c1b36704a" width="500">
+</p>
+
 ### Replication Package:
 1. **[Initial List of Papers:](https://github.com/samirasilva/samira_phd_gssi/blob/main/taas_2023_supp/1_Initial_list_of_papers_journal.ods)** It contains the initial list of papers gathered by using our search string in three databases: Scopus, ACM DL and IEEExplore.
 2. **[List of Papers after Relevance Evaluation:](https://github.com/samirasilva/samira_phd_gssi/blob/main/taas_2023_supp/2_Evaluation_Relevance_journal.ods)** We screened the previous list of papers by simply reading their title and abstract and eliminated those that were clearly not pertinent and duplicates. Then, this is the list of possible relevant papers.  
